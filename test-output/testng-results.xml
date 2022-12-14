@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T06:20:43 CAT" name="Default suite" finished-at="2022-12-14T06:20:54 CAT" duration-ms="10708">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T06:20:43 CAT" name="Default test" finished-at="2022-12-14T06:20:54 CAT" duration-ms="10708">
+      <class name="org.testngkeyword.com.driverexec">
+        <test-method signature="mainmethod()[pri:0, instance:org.testngkeyword.com.driverexec@16a0ee18]" started-at="2022-12-14T06:20:43 CAT" name="mainmethod" finished-at="2022-12-14T06:20:54 CAT" duration-ms="10665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainmethod -->
+      </class> <!-- org.testngkeyword.com.driverexec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
